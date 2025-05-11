@@ -1,0 +1,46 @@
+{
+  "sensores": [
+    {
+      "id": 1,
+      "nome": "Sensor de Pressão e Vacuo",
+      "valor": 5.2,
+      "status": "OK",
+      "historico": [5.1, 5.2, 5.0, 5.3]
+    },
+    {
+      "id": 2,
+      "nome": "Sensor de Fluxo",
+      "valor": 2.3,
+      "status": "Alerta",
+      "historico": [2.0, 2.1, 2.5, 2.3]
+    },
+    {
+      "id": 3,
+      "nome": "Sensor de Assentamento",
+      "valor": 2.3,
+      "status": "Alerta",
+      "historico": [2.0, 2.1, 2.5, 2.3]
+    },
+    {
+      "id": 4,
+      "nome": "Sensor Óptico",
+      "valor": 2.3,
+      "status": "Alerta",
+      "historico": [2.0, 2.1, 2.5, 2.3]
+    },
+    {
+      "id": 5,
+      "nome": "Sensor Indutivo",
+      "valor": 2.3,
+      "status": "Alerta",
+      "historico": [2.0, 2.1, 2.5, 2.3]
+    },
+    {
+      "id": 6,
+      "nome": "Sensor de Proximidade",
+      "valor": 2.3,
+      "status": "Alerta",
+      "historico": [2.0, 2.1, 2.5, 2.3]
+    }
+  ]
+}
